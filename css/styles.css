@@ -727,7 +727,7 @@ img {
   letter-spacing: 0.04em;
 }
 
-.check-span:checked {
+.check-input:checked + .check-text span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
